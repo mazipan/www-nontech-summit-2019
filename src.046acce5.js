@@ -8,4 +8,4 @@ var e;!function(t,o){"function"==typeof e&&e.amd?e([],o):"object"==typeof module
 },{"/home/travis/build/mazipan/www-nontech-summit-2019/images/banner/building.jpeg":[["building.5155d8ff.jpeg","gtN9"],"gtN9"]}],"H99C":[function(require,module,exports) {
 "use strict";var e=t(require("rellax"));function t(e){return e&&e.__esModule?e:{default:e}}require("intersection-observer"),require("./index.scss"),document.addEventListener("DOMContentLoaded",function(){if(new e.default(".rellax"),"IntersectionObserver"in window){var t=document.querySelector("#conf_title");new IntersectionObserver(function(e){e.forEach(function(e){console.log("entry.intersectionRatio",e,e.intersectionRatio),e.intersectionRatio<=0?document.querySelector(".header_sticky").classList.add("is--have-bg"):document.querySelector(".header_sticky").classList.remove("is--have-bg")})}).observe(t)}});
 },{"rellax":"Si5S","intersection-observer":"xLPE","./index.scss":"WrJu"}]},{},["H99C"], null)
-//# sourceMappingURL=/src.a5774d4e.map
+//# sourceMappingURL=/src.046acce5.map
