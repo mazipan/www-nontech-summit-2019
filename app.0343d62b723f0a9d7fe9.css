@@ -21,7 +21,9 @@ body {
 .is--have-bg {
   background-color: #2779d6 !important; }
   .is--have-bg .brand-logo {
-    filter: invert(100%); }
+    background-color: #fff;
+    padding: .25em;
+    border-radius: .25em; }
 
 .header_wrapper {
   height: 70px;
