@@ -19,7 +19,7 @@ body {
   z-index: 99; }
 
 .is--have-bg {
-  background-color: #000 !important; }
+  background-color: #2779d6 !important; }
   .is--have-bg .brand-logo {
     filter: invert(100%); }
 
@@ -31,7 +31,7 @@ body {
     padding: 1em;
     font-weight: 600; }
     .header_wrapper .link:hover {
-      background-color: rgba(0, 0, 0, 0.7); }
+      background-color: rgba(38, 121, 214, 0.4); }
 
 .hero.is-welcome-cover {
   background: url(/images/banner/building.jpeg) no-repeat center center fixed;
@@ -45,7 +45,7 @@ body {
   justify-content: center; }
 
 .hero-content {
-  background-color: rgba(0, 0, 0, 0.7);
+  background-color: rgba(38, 121, 214, 0.4);
   padding: 1em; }
 
 .section {
@@ -54,6 +54,8 @@ body {
   max-width: 960px; }
   .section p {
     padding-top: 1em; }
+  .section .title-section {
+    color: #2779d6; }
 
 .location .level-item {
   padding: 1em; }
@@ -69,10 +71,27 @@ body {
   .list-ol li {
     padding: .5em; }
 
-.footer {
-  background-color: #000; }
-  .footer p {
+.footer_container {
+  background-color: #2779d6;
+  padding: 1em 0; }
+  .footer_container p {
     color: #fff; }
+
+.sitemap {
+  text-align: left;
+  line-height: 2; }
+  .sitemap__wrapper {
+    text-align: left; }
+  .sitemap .has-text-weight-bold {
+    padding-bottom: .5em; }
+  .sitemap__item {
+    color: #fff; }
+    .sitemap__item a {
+      color: #fff;
+      text-decoration: none; }
+      .sitemap__item a:hover {
+        color: #fff;
+        text-decoration: underline; }
 
 .is--have-bg .burger {
   color: #fff; }
@@ -118,7 +137,7 @@ body {
   position: absolute;
   right: 50px;
   top: 45px;
-  background-color: rgba(0, 0, 0, 0.7);
+  background-color: rgba(38, 121, 214, 0.4);
   display: none; }
   .mobile-menu.is-active {
     display: block; }
@@ -145,9 +164,13 @@ body {
     font-size: 1rem !important; }
   .list-ol {
     text-align: center;
-    list-style: none; } }
+    list-style: none; }
+  .sitemap {
+    text-align: center; }
+    .sitemap__wrapper {
+      text-align: center; } }
 
 @media screen and (min-width: 768px) {
-  .burger {
+  .burger, .hide-in-desktop {
     display: none; } }
 
