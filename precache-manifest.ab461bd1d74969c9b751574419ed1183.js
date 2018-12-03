@@ -1,17 +1,14 @@
 self.__precacheManifest = [
   {
-    "revision": "2cfce1a7044325708db262168dcc90f1",
-    "url": "/images/favicon/apple-icon-152x152.png"
+    "revision": "b94b865d4a58a4dc7f0a6986f3d690f0",
+    "url": "/images/favicon/apple-icon-180x180.png"
   },
   {
     "revision": "cc401143f5003c958a917711f57908f8",
     "url": "/images/venue/ayana_ballroom_3.jpg"
   },
   {
-    "url": "/vendors~app.0343d62b723f0a9d7fe9.js"
-  },
-  {
-    "revision": "adbba4a76ddadf8c8dc29289012e927b",
+    "revision": "3f248cffa0070d12ef16b68ed25b53c7",
     "url": "/index.html"
   },
   {
@@ -27,50 +24,47 @@ self.__precacheManifest = [
     "url": "/images/venue/ayana_ballroom_3_300px.jpeg"
   },
   {
-    "revision": "fdf75259e11e43204d8477e7419d81bf",
+    "revision": "9195b9a75859761e030ff5e2f301ce38",
     "url": "/register/index.html"
   },
   {
-    "revision": "d647253dd4f1f52e0942da01caa90b9e",
+    "revision": "b5e6753ca556192eb496d306a775968a",
     "url": "/speaker/index.html"
   },
   {
-    "revision": "af462559cbe1df3aff1d887f98399aa6",
+    "revision": "16c3ae03d4f7492d23353951e9018390",
     "url": "/sponsor/index.html"
   },
   {
-    "revision": "1671e9b0192159fc61af65aafacf0b22",
+    "revision": "55e6f84d7b84a66d34261f5137e289f9",
     "url": "/volunteer/index.html"
   },
   {
-    "revision": "ba7c369d7bf081b3052a9cfa92f6ff22",
-    "url": "/index.html.gz"
-  },
-  {
-    "revision": "f897b1970d321d9f0d0b14c22ac16fcc",
-    "url": "/volunteer/index.html.gz"
-  },
-  {
-    "url": "/vendors~app.0343d62b723f0a9d7fe9.js.gz"
-  },
-  {
-    "revision": "91ac9bbbdb1d0f900d3535c226bf8a4f",
-    "url": "/sponsor/index.html.gz"
-  },
-  {
-    "revision": "82da2e2abb83e5488b123890a95fc46f",
-    "url": "/speaker/index.html.gz"
-  },
-  {
-    "revision": "f3cc9011d51f8204c911f46290ad9e13",
+    "revision": "a34fcc3b0471bc0007d851a154dad4cd",
     "url": "/register/index.html.gz"
   },
   {
-    "revision": "c05b62ef352b868cf2db1d5c8b04e5d3",
-    "url": "/images/favicon/favicon-16x16.png"
+    "revision": "e3f2e3cc8bec0958924b9e11f27fe3e2",
+    "url": "/index.html.gz"
   },
   {
-    "revision": "f5a307b0392302e1f5cd3d1602535f2a",
+    "revision": "6d96d363d02feef47013c68d2d62ce2b",
+    "url": "/volunteer/index.html.gz"
+  },
+  {
+    "revision": "5e1b7ba6cd75e30bc1afb674e599eebd",
+    "url": "/sponsor/index.html.gz"
+  },
+  {
+    "revision": "01404d43d6d8b7a2c70a598a24dd34e2",
+    "url": "/speaker/index.html.gz"
+  },
+  {
+    "revision": "ea378f98c5eade85da429012c70926f4",
+    "url": "/images/favicon/favicon-96x96.png"
+  },
+  {
+    "revision": "88b3c3ccf4fa2e6084c409481a01decf",
     "url": "/faq/index.html.gz"
   },
   {
@@ -138,12 +132,12 @@ self.__precacheManifest = [
     "url": "/images/favicon/apple-icon-144x144.png"
   },
   {
-    "revision": "863a25d7c3f51f802f9a63cb3d967931",
-    "url": "/images/venue/ayana_ballroom_1_300px.jpeg"
+    "revision": "2cfce1a7044325708db262168dcc90f1",
+    "url": "/images/favicon/apple-icon-152x152.png"
   },
   {
-    "revision": "b94b865d4a58a4dc7f0a6986f3d690f0",
-    "url": "/images/favicon/apple-icon-180x180.png"
+    "revision": "863a25d7c3f51f802f9a63cb3d967931",
+    "url": "/images/venue/ayana_ballroom_1_300px.jpeg"
   },
   {
     "revision": "1618db5a90c3947e1bf37e94b3b057c5",
@@ -170,16 +164,12 @@ self.__precacheManifest = [
     "url": "/images/favicon/apple-icon.png"
   },
   {
-    "revision": "7a7144ac23c07476604a9d73e01d7b57",
-    "url": "/images/sponsor/biznet-gio-logo.webp"
-  },
-  {
     "revision": "c188d3145fcdd90b289eb196f073ef39",
     "url": "/images/favicon/favicon-32x32.png"
   },
   {
-    "revision": "ea378f98c5eade85da429012c70926f4",
-    "url": "/images/favicon/favicon-96x96.png"
+    "revision": "7a7144ac23c07476604a9d73e01d7b57",
+    "url": "/images/sponsor/biznet-gio-logo.webp"
   },
   {
     "revision": "9ef09a73cff6e9d93d46b74f1ab7515d",
@@ -214,6 +204,10 @@ self.__precacheManifest = [
     "url": "/images/media-partner/codepolitan_logo.png"
   },
   {
+    "revision": "013467bd1ebc5725a46d3e21d585844c",
+    "url": "/images/organizer/logonew.png"
+  },
+  {
     "revision": "1cf3305c929de874532557fd20b1f4e6",
     "url": "/images/organizer/phpid-300x122.png"
   },
@@ -242,35 +236,39 @@ self.__precacheManifest = [
     "url": "/images/sponsor/biznet-gio-logo.svg"
   },
   {
-    "revision": "741995047c4010205c10617db7ab27ea",
+    "revision": "c05b62ef352b868cf2db1d5c8b04e5d3",
+    "url": "/images/favicon/favicon-16x16.png"
+  },
+  {
+    "revision": "34430b98de3ad3661c373047b5c4ffb0",
     "url": "/faq/index.html"
   },
   {
-    "revision": "a4af5010d348dcd53de952e731c2a99f",
+    "revision": "e0cca6e94892a84874f5fe1071c0a46b",
     "url": "/contact/index.html.gz"
   },
   {
-    "revision": "26758e667329f5c61eb1295ee2029676",
+    "revision": "787616f0338cb15fb2093b17832e7038",
     "url": "/contact/index.html"
   },
   {
-    "revision": "82da2e2abb83e5488b123890a95fc46f",
+    "revision": "01404d43d6d8b7a2c70a598a24dd34e2",
     "url": "/coacher/index.html.gz"
   },
   {
-    "revision": "d647253dd4f1f52e0942da01caa90b9e",
+    "revision": "b5e6753ca556192eb496d306a775968a",
     "url": "/coacher/index.html"
   },
   {
-    "url": "/app.0343d62b723f0a9d7fe9.js.gz"
+    "url": "/app.7c360f7d8a7ac628f917.js.gz"
   },
   {
-    "url": "/app.0343d62b723f0a9d7fe9.js"
+    "url": "/app.7c360f7d8a7ac628f917.js"
   },
   {
-    "url": "/app.0343d62b723f0a9d7fe9.css.gz"
+    "url": "/app.7c360f7d8a7ac628f917.css.gz"
   },
   {
-    "url": "/app.0343d62b723f0a9d7fe9.css"
+    "url": "/app.7c360f7d8a7ac628f917.css"
   }
 ];

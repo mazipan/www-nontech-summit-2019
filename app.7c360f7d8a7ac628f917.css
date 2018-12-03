@@ -1,3 +1,19 @@
+.hero.is-welcome-cover, .footer_container {
+  background: #36D1DC;
+  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #5B86E5, #36D1DC);
+  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #5B86E5, #36D1DC);
+  /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */ }
+
+.is--have-bg {
+  background: #36D1DC !important;
+  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #5B86E5, #36D1DC) !important;
+  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #5B86E5, #36D1DC) !important;
+  /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */ }
+
 body {
   font-family: 'Roboto', sans-serif; }
 
@@ -11,19 +27,18 @@ body {
   letter-spacing: 0.2em; }
 
 .header_sticky {
-  background: transparent !important;
+  background-color: transparent !important;
   position: fixed;
   width: 100%;
   left: 0;
   top: 0;
   z-index: 99; }
 
-.is--have-bg {
-  background-color: #2779d6 !important; }
-  .is--have-bg .brand-logo {
-    background-color: #fff;
-    padding: .25em;
-    border-radius: .25em; }
+.brand-logo {
+  background-color: #fff;
+  padding: .25em;
+  border-radius: .25em;
+  margin-right: 1em; }
 
 .header_wrapper {
   height: 70px;
@@ -31,13 +46,13 @@ body {
   .header_wrapper .link {
     color: #fff;
     padding: 1em;
-    font-weight: 600; }
+    font-weight: 600;
+    font-family: 'PT Sans Caption', sans-serif;
+    letter-spacing: 0.2em; }
     .header_wrapper .link:hover {
       background-color: rgba(38, 121, 214, 0.4); }
 
 .hero.is-welcome-cover {
-  background: url(/images/banner/building.jpeg) no-repeat center center fixed;
-  background-size: cover;
   height: 100vh;
   margin-bottom: 10rem;
   color: #FFF;
@@ -74,7 +89,6 @@ body {
     padding: .5em; }
 
 .footer_container {
-  background-color: #2779d6;
   padding: 1em 0; }
   .footer_container p {
     color: #fff; }
